@@ -3,10 +3,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Rahul Dhawan
+title: Associate Data Scientist
+email: rdhawan201455@gmail.com
+phone: (+91)--466336602
 website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
