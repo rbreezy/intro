@@ -7,4 +7,30 @@
   quote: >
    The fourkites is helping the supply chain industry by providing the real time visibilty. The fourkites is providing the ETA for a load irrespective of the load type.
   description: | # this will include new lines to allow paragraphs
-    My role in the fourkites is to use the data and build the model to provide the ETA for the loads. I am currently working on the enhancing the modle for RAIL.
+    My role in the fourkites is to use the data and build the model to provide the ETA for the loads. I am currently working on the enhancing the modle for RAIL. 
+    I am Working on the edge cutting tools like grafana for measuring and visualizing the performance of each model and metrics. I am Working with the product to make the product end-to-end smother.
+    The environment was scrum and agile.
+
+# Experience template
+- layout: left
+  company: WIMWISure
+  link: wimwisure.com
+  job_title: Machine learning Intern
+  dates: May 2018 - July 2018
+  quote: >
+   WIMWIsure's computer vision and data analytics solutions provide an integrated platform to enable sales, distribution and service delivery for the digital age insurers.
+  description: | # this will include new lines to allow paragraphs
+    My role in the wimwisure was to use the images and the real world data and build the computer vision model to provide the insurance related work for the input image.
+    I was the part of the core team. I was Working with the product to make the product end-to-end smother. The environment was scrum and agile.
+
+# Experience template
+- layout: left
+  company: Indian Railways
+  link: https://rcf.indianrailways.gov.in/
+  job_title: Networking Intern
+  dates: May 2017 - July 2017
+  quote: >
+   RCF is equipped with a state-of-the art CAD centre and CNC machines to undertake design and manufacture of bogies, shells (both with stainless steel and corten steel).
+  description: | # this will include new lines to allow paragraphs
+    My role in the indian railways was to use the current network system and simulate in cisco packet tracer. 
+
