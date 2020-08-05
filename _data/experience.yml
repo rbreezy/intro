@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Fourkites Inc.
+  link: fourkites.com
+  job_title: Associate Data Scientist
+  dates: May 2019 - present
   quote: >
-   Short description of the company (optional)
+   The fourkites is helping the supply chain industry by providing the real time visibilty. The fourkites is providing the ETA for a load irrespective of the load type.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    My role in the fourkites is to use the data and build the model to provide the ETA for the loads. I am currently working on the enhancing the modle for RAIL.
