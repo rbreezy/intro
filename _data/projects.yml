@@ -3,3 +3,22 @@
   name: GAN (Generator for Number Image) -  (MAY 2018 - JUL 2018)
   description: | # this will include new lines to allow paragraphs
     The model that was built will generate the image of the numbers by learning from the dataset. Which we can apply to other technology also.
+
+# Project template
+- layout: top-middle
+  name: Speech Recognization -  (DEC 2017 - JAN 2018)
+  description: | # this will include new lines to allow paragraphs
+    The model was built for Recognizing Speech. Which we will use for the safety purpose in the bank or any other secure areas.
+
+# Project template
+- layout: top-middle
+  name: NLP Chatbot -  (JAN 2018 - MAR 2018)
+  description: | # this will include new lines to allow paragraphs
+    The compiler was built to solve the problem of SML processing time by translating the language to the LLVM and then compile it.
+    
+# Project template
+- layout: top-middle
+  name: Compiler -  (SEP 2017 - NOV 2017)
+  description: | # this will include new lines to allow paragraphs
+    The model was built for Recognizing Speech. Which we will use for the safety purpose in the bank or any other secure areas.
+
