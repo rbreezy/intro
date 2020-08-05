@@ -32,7 +32,7 @@ linkedin_username: rahul-dhawan-a82b70137
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Rahul and I'm a Associate Data Scienist at Fourkites.
   B.Tech in Computer Science and engineering with strong analytical and problem-solving skills. Experience in data analysis using R, Python, and SQL to manipulate and extract invaluable information from data.
