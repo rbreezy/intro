@@ -36,7 +36,6 @@ about_profile_image: /images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Rahul and I'm a Associate Data Scienist at Fourkites.
   B.Tech in Computer Science and engineering with strong analytical and problem-solving skills. Experience in data analysis using R, Python, and SQL to manipulate and extract invaluable information from data.
-  |
   Passionate in solving real-world problems using deep learning and machine learning techniques. A collaborative team-player with excellent communication and organization skills.
   Skills: Python (e.g. Scikit-learn, pandas, numpy, Keras), R, Linux/Unix, Tableau, Spark, git, SQL, machine learning, classification, regression, clustering, web scraping, data manipulation, data visualization(e.g. Matplotlib, seaborn), image recognition/classification, deep neural networks 
   
@@ -52,10 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-   1. Served as a Student Mentor for the CSE Department First-Year Students. Helped them get acquainted with college studies and the environment. |
-   2. Member of the Organizing team for IIT PKD fest “PETRICHOR”. |
-   3. Writer at Analytics vidya on Medium. |
- 
+   Served as a Student Mentor for the CSE Department First-Year Students. Helped them get acquainted with college studies and the environment. 
+   Member of the Organizing team for IIT PKD fest “PETRICHOR”. 
+   Writer at Analytics vidya on Medium.
   In addition to my professional life, I love to draw what I see in real life and in my imaginary so I love to travel around the world to see new views and new people.
   I also like to build connections so if you ever want to share experience or ideas with me, please feel free to contact me: rdhawan201455@gmail.com
 
