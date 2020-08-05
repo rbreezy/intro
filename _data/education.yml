@@ -1,8 +1,17 @@
 # Education Template
+# Education Template
+- layout: left
+  name: Birla Institute of technology and science
+  dates: 2020 - 2022
+  qualification: MBA - Buisness analytics
+  quote: >
+    I am prusuing MBA in buisness analytics, to learn more about managmnet and analytics.
+  description: | # this will include new lines to allow paragraphs
+
 - layout: left
   name: Indian Institute of technology - Palakkad
-  dates: 2015- 2019
-  qualification: B.Tech. Computer Science and Egineering
+  dates: 2015 - 2019
+  qualification: B.Tech. Computer Science and Engineering
   quote: >
-    7.6
+    I graduated with major in computer science and engineering, with a CGPA of 7.6.
   description: | # this will include new lines to allow paragraphs
